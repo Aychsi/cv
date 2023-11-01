@@ -38,7 +38,10 @@ linkedin_username: hansoo-chang-948b2214a
 about_profile_image: images/IMG_7975.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a PhD researcher at Drexel University using statistical and machine learning techniques to predict mental health and mortality
-  outcomes in large datasets. My research interests lie in the predictive ability of Biological and Brain age which can be calculated using blood-based and brain imaging data. 
+  outcomes in large datasets. Previously, I completed by undergraduate degree in Cognitive Science at the University of Pennsylvania with a concentration in Computation and 
+  Cognition where I also used machine learning and natural language processing techniques for analyzing consumer feedback on products. 
+
+  My research interests lie in the predictive ability of Biological and Brain age which can be calculated using blood-based and brain imaging data. 
   I answer these questions using tools such as multilevel linear regression frameworks, neural nets, Bayesian network analysis, and natural
   language processing.
 
