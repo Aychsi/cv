@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Hansoo Chang
-title: PhD Researcher
+title: PhD Researcher in Applied Cognitive and Brain Sciences
 email: hnsoo.chang@gmail.com
 
 # Dark Mode (true/false/never)
@@ -37,9 +37,15 @@ linkedin_username: hansoo-chang-948b2214a
 # about_title: About Me
 about_profile_image: images/IMG_7975.jpg
 about_content: | # this will include new lines to allow paragraphs
-  test
+  I am a PhD researcher at Drexel University using statistical and machine learning techniques to predict mental health and mortality
+  outcomes in large datasets. My research interests lie in the predictive ability of Biological and Brain age which can be calculated using blood-based and brain imaging data. 
+  I answer these questions using tools such as multilevel linear regression frameworks, neural nets, Bayesian network analysis, and natural
+  language processing.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I also have experience in providing product improvements and insights to pharmaceutical and technology leaders backed by data analytics. These insights have been used by business
+  leaders at companies like Samsung, Dexcom, and Janssen Pharmaceuticals to provide safer and more efficient product and drug development.
+
+  I am most skilled in: <mark>R</mark> and <mark>Python</mark>
 
 content:
 # PHACS/AMP
@@ -60,7 +66,10 @@ content:
         quote: >
           Data from the Pediatric HIV/AIDS Cohort Study (PHACS)
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Designed a new advanced statistical framework to
+          forecast mental health and mortality risks for children with PHIV over time in a large electronic health records (Pediatric HIV/AIDS Cohort
+          Study). Briefly, this new algorithm incorporates the starting health condition of each child to inform future health outcomes. This method
+          has been shown to outperform previous methods of predicting health outcomes using Biological Age.
 
       # Multimorbidity
       - layout: top-middle
@@ -76,7 +85,8 @@ content:
         quote: >
           Data from the Midlife in the US (MIDUS) Study
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Developed a statistical model to incorporate both blood-based and grey matter volume to calculate both Biological and Brain Age which is used to predict multimorbidity. 
+          This is the first paper to examine both biological and brain age as a predictor for multimorbidity.
   
       # Delve 
       - layout: top-middle
@@ -85,6 +95,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
             url: github.com/Aychsi/BG-Data-Analysis.git
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -92,7 +103,9 @@ content:
         quote: >
           Delve Inc. (formerly Bresslergroup Inc.) is a product innovation firm specializing in consumer and medical devices
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Various projects as a Data Science Intern at Delve Inc. This includes providing data visualization and summary measures for business leaders from various industries. 
+          Highlights include performing data reduction techniques and survey analysis for Samsung, usability testing for Dexcom's CGM, and Natural Language Processing of Amazon
+          reviews of Batiste (Church and Dwight) dry shampoo.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
