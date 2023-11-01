@@ -119,19 +119,6 @@ content:
           Various projects as a Data Science Intern at Delve Inc. This includes providing data visualization and summary measures for business leaders from various industries. 
           Highlights include performing data reduction techniques and survey analysis for Samsung, usability testing for Dexcom's CGM, and Natural Language Processing of Amazon
           reviews of Batiste (Church and Dwight) dry shampoo.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Drexel University
-        caption: 2021 - Present
-        sub_title: PhD in Applied Cognitive and Brain Sciences
-
-      - layout: top-middle
-        title: University of Pennsylvania
-        caption: 2017 - 2021
-        sub_title: BA in Cognitive Science
         
 
 
