@@ -122,7 +122,47 @@ content:
           Various projects as a Data Science Intern at Delve Inc. This includes providing data visualization and summary measures for business leaders from various industries. 
           Highlights include performing data reduction techniques and survey analysis for Samsung, usability testing for Dexcom's CGM, and Natural Language Processing of Amazon
           reviews of Batiste (Church and Dwight) dry shampoo.
-        
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Chang, H., Taylor, A., Ferariu, Ana., & Zhang, F., (2023). Investigating Biological and Brain 
+              Age in Children in the Adolescent Brain Cognitive Development (ABCD) Study. NeuroImage,
+              2023-09, under review.
+      - layout: left
+        title: Chang, H., Street, K., Ferariu, Ana., & Zhang, F., (2023). Biological Age Model using
+              Weighted Intercepts Improves Multimorbidity Prediction in Children with Perinatally-
+              Acquired HIV. Statistics in Medicine, 2023-09, under review.     
+      - layout: left
+        title: Zhang, F., Chang, H., Schaefer, S. M., & Gou, J. (2022). Biological age and brain age in
+                midlife - relationship to multimorbidity and mental health. Neurobiology of Aging, 2022-09, in
+                press. 
+        link: https://www.sciencedirect.com/science/article/abs/pii/S0197458023002117?via%3Dihub
+      - layout: left
+        title: Niu, X., Gou, J., Chang, H., Lowe, M., & Zhang, F. (2022). Classification model with
+                weighted regularization to improve the reproducibility of neuroimaging signature
+                selection. Statistics in Medicine, 41(25), 5046-5060.
+        link: https://onlinelibrary.wiley.com/doi/10.1002/sim.9553
+      - layout: left
+        title: Shim, M., Kavanaugh, M., Lacson, C., Goldstein-Levitas, N., Chang, H., Zhang, F., Fisher, K., 
+              Connected through Movement - A Feasibility Study of Online Mindfulness-based Dance/Movement Therapy for Older Adults with 
+              Age-related Cognitive Decline during COVID-19. Aging and Mental Health, 2023-09, under review.
+  - title: Presentations # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Investigating Biological and Brain Age in Children in the Adolescent Brain Cognitive Development (ABCD) Study
+        quote: >
+          May 2023
+        description: | # this will include new lines to allow paragraphs
+           Invited 30 minute presentation at the annual Midlife in the US (MIDUS) Investigators Meeting at the University of Wisconsin, Madison
+      - layout: left
+        title: Investigating Biological and Brain Age in Children in the Adolescent Brain Cognitive Development (ABCD) Study
+        quote: >
+          Presented at Statistical Methods in Imaging (SMI) Conference at the University of Minnesota on May 2023
+        pdf_image: images/SMI_Poster.pdf
+         
+
 
 
 # Footer
