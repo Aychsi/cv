@@ -121,7 +121,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I worked as a consultant with the Center for Weight, Eating and Lifestyle Science (WELL) Center at Drexel and Modus Create LLC as a PhD consultant to develop
           a binge-eating prediction application for smartwatches. I suggested and implemented a personalized Natural Language Processing to detect which foods are more 
-          likely to cause binge-eating episodes. I also used XGBoost to achieve above a 80% sensitivity rate to predict binge-eating episodes based on time of day, 
+          likely to cause binge-eating episodes. I also used XGBoost to achieve above an 80% sensitivity rate to predict binge-eating episodes based on time of day, 
           the numebr of calories in the food, and past episodes.
   
       # Delve 
