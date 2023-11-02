@@ -149,7 +149,7 @@ content:
               Age-related Cognitive Decline during COVID-19. Aging and Mental Health, 2023-09, under review.
   - title: Presentations # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    content: 
       - layout: top-middle
         title: Investigating Biological and Brain Age in Children in the Adolescent Brain Cognitive Development (ABCD) Study
         quote: >
@@ -159,8 +159,12 @@ content:
       - layout: top-middle
         title: Investigating Biological and Brain Age in Children in the Adolescent Brain Cognitive Development (ABCD) Study
         quote: >
-          Presented at Statistical Methods in Imaging (SMI) Conference at the University of Minnesota on May 2023
-          ![Poster](images/SMI_Poster.png "Poster")
+          May 2023
+        description: |
+            Presented at Statistical Methods in Imaging (SMI) Conference at the University of Minnesota on May 2023
+  - title: 
+    content: |
+      ![Poster](images/SMI_Poster.png "Poster")
          
 
 
