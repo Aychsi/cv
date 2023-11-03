@@ -142,6 +142,44 @@ content:
           Various projects as a Data Science Intern at Delve Inc. This includes providing data visualization and summary measures for business leaders from various industries. 
           Highlights include performing data reduction techniques and survey analysis for Samsung, usability testing for Dexcom's CGM, and Natural Language Processing of Amazon
           reviews of Batiste (Church and Dwight) dry shampoo.
+
+  - title: Personal Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+        - layout: top-middle
+          title: MLB Wins-Loss Predictor Model
+          link: https://github.com/Aychsi/MLB-Predictor
+          # link_text: Project Website
+          additional_links:
+            - title:  sproogen/modern-resume-theme
+              icon: fab fa-github
+              url: https://github.com/Aychsi/MLB-Predictor
+            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #   icon: fab fa-github
+            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          description: | # this will include new lines to allow paragraphs
+            Designed a novel wins-loss model for Major League Baseball teams using K-Means clustering and Regression techniques. 
+            Model differed from actual results by 2.687 wins on average, beating most conventional wins-loss predictor algorithms on ESPN.
+
+        - layout: top-middle
+          title: Camel Up Board Game Simulator and Model
+          link: https://github.com/Aychsi/Camel_Up
+          # link_text: Project Website
+          additional_links:
+            - title:  sproogen/modern-resume-theme
+              icon: fab fa-github
+              url: https://github.com/Aychsi/Camel_Up
+            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #   icon: fab fa-github
+            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          quote: >
+            Camel Up is a board game based on horse-betting
+          description: | # this will include new lines to allow paragraphs
+            I used Python to implement a virtual version of popular board game “Camel Up.” 
+            I then designed an algorithm to calculate the most optimal betting strategy based on game-state. 
+            Utilized to beat friends at the game.  
+
+
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
