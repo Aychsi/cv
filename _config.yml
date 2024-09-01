@@ -243,10 +243,14 @@ content:
           May 2023
         description: |
             Presented at Statistical Methods in Imaging (SMI) Conference at the University of Minnesota on May 2023
-  - title: Sample Poster
+  - title: Sample Research Poster
     layout: text
     content: | 
       ![Poster](images/SMI_Poster.png "Poster")
+
+  - title: Sample Industry Poster
+    layout: text
+    content: | 
       ![Poster](images/merck_poster.png "Poster")
          
 
