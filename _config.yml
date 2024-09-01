@@ -78,10 +78,6 @@ content:
           using Spark SQL, R, and Python. I presented our analytics to the internal VP, where I recommended targeted marketing strategies for the drug’s upcoming 
           launch in both the US and global markets. Additionally, I collaborated with consultants from Accenture and McKinsey & Company to present our fincial forecasts to top stakeholders.
 
-
-  - title: Work Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: top-middle
         title: Delve Inc.
         caption: 2020
