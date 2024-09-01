@@ -64,6 +64,34 @@ content:
         caption: 2017 - 2021
         sub_title: BA in Cognitive Science
 
+# Work Experience
+  - title: Work Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Merck & Co.
+        caption: 2024
+        sub_title: Business and Data Analytics Intern
+        description: | 
+          As a PhD intern at Merck, I led a team of four data scientists and business analysts to develop a comprehensive data table for machine learning cluster analysis, 
+          specifically to foracast a new LDL-C drug. This project involved analyzing patient claims, financial, and biomarker data from 99 million patients 
+          using Spark SQL, R, and Python. I presented our analytics to the internal VP, where I recommended targeted marketing strategies for the drug’s upcoming 
+          launch in both the US and global markets. Additionally, I collaborated with consultants from Accenture and McKinsey & Company to present our fincial forecasts to top stakeholders.
+
+
+  - title: Work Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Delve Inc.
+        caption: 2020
+        sub_title: Data Science Intern
+        description: | 
+          At Delve Inc., a product design consulting firm specializing in medical and consumer products, I analyzed consumer trends using machine learning models for 
+          Samsung America for their Flip and Fold phones. This analysis was based on large-scale customer surveys, utilizing text-scraping and sentiment analysis techniques 
+          in Python. Additionally, I designed and implemented a Natural Language Processing Customer Review Analyzer for Dexcom's G7 continuous glucose monitor, using tools like 
+          BeautifulSoup and Docker, to investigate the underlying reasons for customer satisfaction and dissatisfaction.
+
 # PHACS/AMP
   - title: Selected Projects and Research # Title for the section
     layout: list # Type of content section (list/text)
