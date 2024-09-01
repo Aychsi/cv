@@ -45,8 +45,8 @@ about_content: | # this will include new lines to allow paragraphs
   I answer these questions using tools such as multilevel linear regression frameworks, neural nets, Bayesian network analysis, and natural
   language processing.
 
-  I also have experience in providing product improvements and insights to pharmaceutical and technology leaders backed by data analytics. These insights have been used by business
-  leaders at companies like Samsung, Dexcom, and Janssen Pharmaceuticals to provide safer and more efficient product and drug development.
+  I also have experience in providing product improvements and financial forecasting for pharmaceutical and technology leaders backed by data analytics. These insights have been used by business
+  leaders at companies like Merck, Samsung, Dexcom, and Janssen Pharmaceuticals to provide effective product and drug launch.
 
   I am most skilled in: <mark>R</mark> and <mark>Python</mark>
 
@@ -247,6 +247,7 @@ content:
     layout: text
     content: | 
       ![Poster](images/SMI_Poster.png "Poster")
+      ![Poster](images/merck_poster.png "Poster")
          
 
 
